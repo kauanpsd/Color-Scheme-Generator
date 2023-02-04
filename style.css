@@ -99,24 +99,24 @@ a {
 
 /* COLORS ID */
 
+#color-0{
+    background-color: #000000;
+}
+
 #color-1{
-    background-color: #F55A5A;
+    background-color: #1A1919;
 }
 
 #color-2{
-    background-color: #2B283A;
+    background-color: #343232;
 }
 
 #color-3{
-    background-color: #FBF3AB;
+    background-color: #4F4A4A;
 }
 
 #color-4{
-    background-color: #AAD1B6;
-}
-
-#color-5{
-    background-color: #A626D3;
+    background-color: #6A6262;
 }
 
 
